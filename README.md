@@ -1,8 +1,8 @@
-![logo](art/logo1.png)
 
-# Sky p2p metting (p2p视频会议)
 
-> [中文文档](<https://github.com/ddssingsong/webrtc_android/blob/master/README-zh.md>)
+# Sky p2p metting
+
+> (<https://github.com/ddssingsong/webrtc_android/blob/master/README-zh.md>)
 
 
 
@@ -94,7 +94,7 @@ apk for branch_meeting : [AndroidDemo.apk](https://github.com/ddssingsong/webrtc
 
 2. https://webrtc.org/
 
-   webrtc网站
+   webrtc
 
 3. https://webrtc.googlesource.com/src/+/master/examples
 
@@ -105,19 +105,7 @@ apk for branch_meeting : [AndroidDemo.apk](https://github.com/ddssingsong/webrtc
 ## License
 
 MIT License 
-Copyright (c) 2019 哒哒瑟 
-
-
-
-## QQ
-
-QQ Group：webrtc技术交流群
-
-QQ 群   号：601332720（1群）  619413989  （2群）    707717173  （3群）
-
-
-加入群一起探讨webrtc，分享好的开源项目
-
+Copyright (c) 2019
 
 
 
